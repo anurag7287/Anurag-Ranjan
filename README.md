@@ -19,3 +19,91 @@ DATA ANALYTICS & BUSINESS INTELLIGENCE PROJECTS:=-
 
 3- RETAIL INVENTORY OPTIMIZATION & OPERATIONAL DASHBOARD (ADVANCED EXCEL): DEVELOPED AN AUTOMATED INVENTORY MANAGEMENT MODEL FEATURING DYNAMIC TRACKING METRICS, ITEM SIZE CATEGORIZATION, AND CONDITIONAL LOGIC TO GENERATE REAL-TIME STOCK ALERTS AND PREVENT SUPPLY CHAIN STOCKOUTS.
 
+
+
+ SOFTWARE i know and practice :=- 
+
+• PTC Creo
+
+• Power BI
+
+• MS Excel
+
+• MS Word
+
+• MS PowerPoint
+
+• My SQL
+
+• Python
+
+
+
+ SKILL:=-
+
+1- Engineering Fundamentals
+
+2- 3D printing/additive manufacturing
+
+3- 3D Modeling and Drafting
+
+4- PTC Creo (Software)
+
+5- Advanced Excel
+
+6- MySQL Database Basics
+
+7- Power BI
+
+8- Power Bi
+
+9- AI Tools
+
+10- Python
+
+
+
+SOFT SKILLS:=-
+
+• Problem-Solving
+
+• Adaptability
+
+• Quick Learner
+
+• Decision-Making
+
+• Communication
+
+• Time Management
+
+
+
+EXPERIENCE:=-
+
+STEAM TRAINER
+Aviotron Aerospace
+
+• Delivered technical training in STEAM subjects to students.
+• Assisted in hands-on engineering activities and project-based learning.
+• Guided students in basic design concepts and practical applications.
+• Developed communication, presentation, and technical explanation skills.
+
+
+
+
+EDUCATION:=-
+
+• B.Tech in Mechanical engineering 2023
+Lovely Professional University,Phagwara
+70.6%
+
+• Diploma in Automobile Engineering 2016 - 2019
+K.K. Polytechnic Dhanbad, Jharkhand
+S.B.T.E. Board
+72%
+
+• Class X 2015
+D.A.V. Public ( C.B.S.E)
+82.65%
+
