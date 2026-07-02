@@ -3,21 +3,17 @@
 
 Analytical Mechanical Engineer with a proven track record of applying manufacturing and automotive systems knowledge to practical, team-based engineering projects. Recognized for a proactive problem-solving mindset and the ability to translate complex technical challenges into efficient industrial solutions. Dedicated to continuous professional growth and driving operational excellence across multidisciplinary engineering roles.
 
-CORE ENGINEERING PROJECTS:=-
+## ⚙️ Core Engineering Projects
 
-1- ELECTRIC VEHICLE PROTOTYPE DEVELOPMENT : DESIGNED KEY MECHANICAL SYSTEMS FOR AN EV PROTOTYPE, FOCUSING ON POWER TRAIN EFFICIENCY, COMPONENT LAYOUT, AND STRUCTURAL INTEGRITY.
+* **Electric Vehicle Prototype Development:** Designed key mechanical systems for an EV prototype, focusing on powertrain efficiency, component layout, and structural integrity.
+* **Materials Research (Aluminium-Lithium Alloys):** Conducted feasibility and performance studies on Al-Li alloys to identify strategies for high-performance automotive and aerospace systems.
+* **Industrial IoT Dashboard (Power BI):** Engineered a 3-page predictive maintenance application for a fleet of industrial pumps. Integrated advanced DAX metrics, predictive health regression curves, and anomaly detection models to optimize fleet uptime and streamline maintenance planning.
 
-2- MATERIALS RESEARCH: ALUMINIUM-LITHIUM ALLOYS CONDUCTED FEASIBILITY AND PERFORMANCE STUDIES ON AL-LI ALLOYS TO IDENTIFY STRATEGIES FOR HIGH-PERFORMANCE AUTOMOTIVE AND AEROSPACE SYSTEMS.
+## 📊 Data Analytics & Business Intelligence Projects
 
-3- Industrial IoT Dashboard (Power BI): Engineered a 3-page predictive maintenance application for a fleet of industrial pumps. Integrated advanced DAX metrics, predictive health regression curves, and anomaly detection models to optimize fleet uptime and streamline maintenance planning.
-
-DATA ANALYTICS & BUSINESS INTELLIGENCE PROJECTS:=-
-
-1- INTERACTIVE TECH PRODUCTS PERFORMANCE DASHBOARD (POWER BI): ENGINEERED A DYNAMIC POWER BI DASHBOARD FOR A COMMERCIAL DATASET, INCORPORATING GEO-SPATIAL MAPPING (INDIA REGIONAL DISTRIBUTION) AND PAYMENT GATEWAY BREAKDOWNS FOR REAL-TIME TRACKING.
-
-2- GLOBAL SALES & COST ARCHITECTURE MODEL (ADVANCED EXCEL): DESIGNED A PROFESSIONAL, MULTI-LAYERED EXCEL DATA MODEL USING A CLEAN 3-TIER ARCHITECTURE (DATA, CALCULATION, AND PRESENTATION LAYERS) TO CROSS-EXAMINE GLOBAL REVENUE AND COST STRUCTURES.
-
-3- RETAIL INVENTORY OPTIMIZATION & OPERATIONAL DASHBOARD (ADVANCED EXCEL): DEVELOPED AN AUTOMATED INVENTORY MANAGEMENT MODEL FEATURING DYNAMIC TRACKING METRICS, ITEM SIZE CATEGORIZATION, AND CONDITIONAL LOGIC TO GENERATE REAL-TIME STOCK ALERTS AND PREVENT SUPPLY CHAIN STOCKOUTS.
+* **Interactive Tech Products Performance Dashboard (Power BI):** Engineered a dynamic Power BI dashboard for a commercial dataset, incorporating geo-spatial mapping (India regional distribution) and payment gateway breakdowns for real-time tracking.
+* **Global Sales & Cost Architecture Model (Advanced Excel):** Designed a professional, multi-layered Excel data model using a clean 3-tier architecture (data, calculation, and presentation layers) to cross-examine global revenue and cost structures.
+* **Retail Inventory Optimization Dashboard (Advanced Excel):** Developed an automated inventory management model featuring dynamic tracking metrics, item size categorization, and conditional logic to generate real-time stock alerts and prevent supply chain stockouts.
 
 
 
