@@ -17,89 +17,40 @@ Analytical Mechanical Engineer with a proven track record of applying manufactur
 
 
 
- SOFTWARE i know and practice :=- 
+## 🛠️ Technical Skills & Software
 
-• PTC Creo
+### 💻 Software & Tools
+* **Data & Analytics:** Power BI | MySQL | Python | MS Excel (Advanced 3-Tier Modeling)
+* **Engineering & CAD:** PTC Creo (3D Modeling & Drafting)
+* **Productivity:** MS Word | MS PowerPoint
 
-• Power BI
+### ⚙️ Core Engineering Capabilities
+* **Design & Analysis:** Engineering Fundamentals | 3D Modeling and Drafting
+* **Manufacturing:** 3D Printing / Additive Manufacturing
+* **Modern Tools:** AI Tools for Workflow Optimization & Research
 
-• MS Excel
-
-• MS Word
-
-• MS PowerPoint
-
-• My SQL
-
-• Python
-
-
-
- SKILL:=-
-
-1- Engineering Fundamentals
-
-2- 3D printing/additive manufacturing
-
-3- 3D Modeling and Drafting
-
-4- PTC Creo (Software)
-
-5- Advanced Excel
-
-6- MySQL Database Basics
-
-7- Power BI
-
-8- Power Bi
-
-9- AI Tools
-
-10- Python
+### 🤝 Soft Skills
+* **Cognitive:** Problem-Solving | Quick Learner | Decision-Making
+* **Execution:** Adaptability | Communication | Time Management
 
 
 
-SOFT SKILLS:=-
+## 💼 Professional Experience
 
-• Problem-Solving
-
-• Adaptability
-
-• Quick Learner
-
-• Decision-Making
-
-• Communication
-
-• Time Management
-
-
-
-EXPERIENCE:=-
-
-STEAM TRAINER
-Aviotron Aerospace
-
-• Delivered technical training in STEAM subjects to students.
-• Assisted in hands-on engineering activities and project-based learning.
-• Guided students in basic design concepts and practical applications.
-• Developed communication, presentation, and technical explanation skills.
+### 🚀 STEAM Trainer 
+**Aviotron Aerospace**
+* **Technical Mentorship:** Delivered comprehensive training in STEAM (Science, Technology, Engineering, Arts, and Mathematics) subjects, translating complex engineering principles into accessible concepts for students.
+* **Project-Based Learning:** Facilitated hands-on engineering labs and aerospace design challenges, guiding students through prototyping and iterative problem-solving.
+* **Design Guidance:** Mentored students on fundamental design concepts, safety frameworks, and the practical real-world applications of physical engineering.
+* **Core Competencies:** Cultivated advanced technical communication, cross-functional collaboration, and public presentation skills through rigorous instructional delivery.
 
 
 
 
-EDUCATION:=-
+## 🎓 Education
 
-• B.Tech in Mechanical engineering 2023
-Lovely Professional University,Phagwara
-70.6%
-
-• Diploma in Automobile Engineering 2016 - 2019
-K.K. Polytechnic Dhanbad, Jharkhand
-S.B.T.E. Board
-72%
-
-• Class X 2015
-D.A.V. Public ( C.B.S.E)
-82.65%
-
+| Degree / Certification | Institution | Year | Performance |
+| :--- | :--- | :--- | :--- |
+| **B.Tech in Mechanical Engineering** | Lovely Professional University, Phagwara | 2023 | **70.6%** |
+| **Diploma in Automobile Engineering** | K.K. Polytechnic Dhanbad, Jharkhand (SBTE) | 2019 | **72.0%** |
+| **Class X (CBSE)** | D.A.V. Public School | 2015 | **82.65%** |
