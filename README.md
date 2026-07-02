@@ -4,8 +4,11 @@
 Analytical Mechanical Engineer with a proven track record of applying manufacturing and automotive systems knowledge to practical, team-based engineering projects. Recognized for a proactive problem-solving mindset and the ability to translate complex technical challenges into efficient industrial solutions. Dedicated to continuous professional growth and driving operational excellence across multidisciplinary engineering roles.
 
 CORE ENGINEERING PROJECTS:=-
+
 1- ELECTRIC VEHICLE PROTOTYPE DEVELOPMENT : DESIGNED KEY MECHANICAL SYSTEMS FOR AN EV PROTOTYPE, FOCUSING ON POWER TRAIN EFFICIENCY, COMPONENT LAYOUT, AND STRUCTURAL INTEGRITY.
+
 2- MATERIALS RESEARCH: ALUMINIUM-LITHIUM ALLOYS CONDUCTED FEASIBILITY AND PERFORMANCE STUDIES ON AL-LI ALLOYS TO IDENTIFY STRATEGIES FOR HIGH-PERFORMANCE AUTOMOTIVE AND AEROSPACE SYSTEMS.
+
 3- Industrial IoT Dashboard (Power BI): Engineered a 3-page predictive maintenance application for a fleet of industrial pumps. Integrated advanced DAX metrics, predictive health regression curves, and anomaly detection models to optimize fleet uptime and streamline maintenance planning.
 
 DATA ANALYTICS & BUSINESS INTELLIGENCE PROJECTS:=-
