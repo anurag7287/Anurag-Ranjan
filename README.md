@@ -1,2 +1,15 @@
-# Anurag-Ranjan
-Data-Driven Mechanical Engineer merging core engineering with analytics. I build dynamic Power BI dashboards, advanced 3-tier Excel models, and 3D designs in PTC Creo to optimize systems and solve complex industrial problems. 🛠️ Power BI | Excel | MySQL | Creo | Python
+<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/d1c4cd45-f3c4-4ae4-8b0b-08b115d472f2" />
+
+
+Analytical Mechanical Engineer with a proven track record of applying manufacturing and automotive systems knowledge to practical, team-based engineering projects. Recognized for a proactive problem-solving mindset and the ability to translate complex technical challenges into efficient industrial solutions. Dedicated to continuous professional growth and driving operational excellence across multidisciplinary engineering roles.
+
+CORE ENGINEERING PROJECTS:=-
+1- ELECTRIC VEHICLE PROTOTYPE DEVELOPMENT : DESIGNED KEY MECHANICAL SYSTEMS FOR AN EV PROTOTYPE, FOCUSING ON POWER TRAIN EFFICIENCY, COMPONENT LAYOUT, AND STRUCTURAL INTEGRITY.
+2- MATERIALS RESEARCH: ALUMINIUM-LITHIUM ALLOYS CONDUCTED FEASIBILITY AND PERFORMANCE STUDIES ON AL-LI ALLOYS TO IDENTIFY STRATEGIES FOR HIGH-PERFORMANCE AUTOMOTIVE AND AEROSPACE SYSTEMS.
+3- Industrial IoT Dashboard (Power BI): Engineered a 3-page predictive maintenance application for a fleet of industrial pumps. Integrated advanced DAX metrics, predictive health regression curves, and anomaly detection models to optimize fleet uptime and streamline maintenance planning.
+
+DATA ANALYTICS & BUSINESS INTELLIGENCE PROJECTS:=-
+1- INTERACTIVE TECH PRODUCTS PERFORMANCE DASHBOARD (POWER BI): ENGINEERED A DYNAMIC POWER BI DASHBOARD FOR A COMMERCIAL DATASET, INCORPORATING GEO-SPATIAL MAPPING (INDIA REGIONAL DISTRIBUTION) AND PAYMENT GATEWAY BREAKDOWNS FOR REAL-TIME TRACKING.
+2- GLOBAL SALES & COST ARCHITECTURE MODEL (ADVANCED EXCEL): DESIGNED A PROFESSIONAL, MULTI-LAYERED EXCEL DATA MODEL USING A CLEAN 3-TIER ARCHITECTURE (DATA, CALCULATION, AND PRESENTATION LAYERS) TO CROSS-EXAMINE GLOBAL REVENUE AND COST STRUCTURES.
+3- RETAIL INVENTORY OPTIMIZATION & OPERATIONAL DASHBOARD (ADVANCED EXCEL): DEVELOPED AN AUTOMATED INVENTORY MANAGEMENT MODEL FEATURING DYNAMIC TRACKING METRICS, ITEM SIZE CATEGORIZATION, AND CONDITIONAL LOGIC TO GENERATE REAL-TIME STOCK ALERTS AND PREVENT SUPPLY CHAIN STOCKOUTS.
+
